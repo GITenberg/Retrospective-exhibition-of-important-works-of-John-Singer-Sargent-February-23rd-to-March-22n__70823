@@ -1,0 +1,53 @@
+_repo: Retrospective-exhibition-of-important-works-of-John-Singer-Sargent-February-23rd-to-March-22n__70823
+_version: 0.0.1
+contributor:
+  artist:
+    agent_name: Sargent, John Singer
+    alias: Sargent, John S.
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '36606'
+    url: http://www.gutenberg.org/2009/agents/36606
+    wikipedia: https://en.wikipedia.org/wiki/John_Singer_Sargent
+  photographer:
+    agent_name: Peter A. Juley & Son
+    aliases:
+    - Peter A. Juley and Son
+    - Juley & Son
+    - Son, Peter A. Juley &
+    gutenberg_agent_id: '55939'
+    url: http://www.gutenberg.org/2009/agents/55939
+creator:
+  author:
+    agent_name: Grand Central Art Galleries
+    aliases:
+    - Painters and Sculptors Gallery Association
+    - Association, Painters and Sculptors Gallery
+    - Galleries, Grand Central Art
+    gutenberg_agent_id: '55938'
+    url: http://www.gutenberg.org/2009/agents/55938
+    wikipedia: https://en.wikipedia.org/wiki/Grand_Central_Art_Galleries
+description: ''
+gutenberg_issued: '2023-05-21'
+identifiers:
+  gutenberg: '70823'
+  lccn: '24004479'
+language: en
+pgterms:marc904: https://archive.org/details/retrosh00gran
+pgterms:marc905: 20201225115022galleries
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bGrand Central Art Galleries, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sargent, John Singer, 1856-1925'
+- !lcsh 'Painting -- Exhibitions'
+- !lcc 'ND'
+- GITenberg
+title: Retrospective exhibition of important works of John Singer Sargent, February
+  23rd to March 22nd, 1924
+url: http://www.gutenberg.org/ebooks/70823
