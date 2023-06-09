@@ -17,6 +17,9 @@ contributor:
     - Son, Peter A. Juley &
     gutenberg_agent_id: '55939'
     url: http://www.gutenberg.org/2009/agents/55939
+covers:
+- cover_type: archival
+  image_path: 70823-h/images/cover.jpg
 creator:
   author:
     agent_name: Grand Central Art Galleries
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55938
     wikipedia: https://en.wikipedia.org/wiki/Grand_Central_Art_Galleries
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70823#Retrospective-exhibition-of-important-works-of-John-Singer-Sargent-February-23rd-to-March-22n_
 gutenberg_issued: '2023-05-21'
 identifiers:
   gutenberg: '70823'
